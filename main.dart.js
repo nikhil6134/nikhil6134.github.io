@@ -57556,7 +57556,7 @@ $0:function(){this.a.e.rY(0,P.aA(0,0,1),this.b)
 return null},
 $S:0}
 F.a3h.prototype={
-$0:function(){C.ai.Ig(window,"https://drive.google.com/file/d/1kJa6YcZGNn9bkg-I0aHqI719n36Wc8ve/view?usp=sharing","pdf")},
+$0:function(){C.ai.Ig(window,"https://drive.google.com/file/d/1XuvVZZFD18uuKSAofUvl2dErA3jc9TU5/view?usp=sharing","pdf")},
 $S:1}
 F.a3g.prototype={
 $0:function(){A.mG("https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE")},
@@ -57574,7 +57574,7 @@ s=i*0.02
 r=L.aJ("\nPortfolio",B.b6(k,i*0.06,C.R,k,1),k,k)
 q=L.aJ("Here are few samples of Our previous work :)\n\n",B.b6(k,k,C.a6,k,k),k,k)
 p=h>1200?i*0.45:h*0.2
-p=T.bc(B.aon(new U.Wo(h,i),6,new V.aB(0,20,0,20),C.m,new U.Wp(h)),p,k)
+p=T.bc(B.aon(new U.Wo(h,i),7,new V.aB(0,20,0,20),C.m,new U.Wp(h)),p,k)
 o=T.bc(k,s,k)
 n=$.cT()
 m=n.a
@@ -62531,11 +62531,11 @@ $.z2=function(){var s="assets/services/app.png"
 return H.b([s,"assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png",s],t.i)}()
 $.z3=H.b(["Full App Development","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
 $.z1=H.b(["For now, I can  develop Android Apps and Ios apps using Flutter, create application backend in firebase , mongoDB, Node.","Although I'm mainly a flutter developer but I do care about the UI/UX for my client. Hence, I also design highly attractive user interface for mobile,web applications ,so feel free to ask me for getting you UI/UX for your apps","Having a startup idea? Or maybe just want a prototype for your clients? With Flutter I can get you basic version of your app in no time and you are good to go for your project in future.","Build Responsive website front end using Flutter ,Html,Css and Javascript and I use tools like figma and adobeXD for front end designing.","Develop highly scalable production ready models for various deeplearning and stastical use cases and give a automation to your app using flutter with Machine Learning, I have a great experience to develop Ml models."],t.i)
-$.ahF=H.b(["assets/projects/share.gif","assets/projects/kikicall.gif","assets/projects/mozilla.gif","assets/projects/kikiwallpapers.gif","assets/projects/kikinews.gif","assets/projects/meals.gif","assets/projects/Myshop.gif"],t.i)
-$.ahH=H.b(["assets/projects/5.png","assets/projects/kikicall.png","assets/projects/mo.png","assets/projects/6.png","assets/projects/4.png","assets/projects/hereiam.png","assets/projects/earbender.png"],t.i)
-$.ahJ=H.b(["Shareout (Instagram Clone)","KiKiCall (Zoom Clone)","Mozilla Rajasthan","KiKiWallpapers","KiKiNews","MyMeals","MyShop (Flipkart Clone)"],t.i)
-$.ahG=H.b(["A social media app developed using flutter powered with firebase as database. its lets you conect to your friends follow them, upload posts , like etc.","It's a Video Conferencing App developed using flutter and Its just like Zoom Call app.","Its a Website of the the Mozilla Community in Rajasthan We developed this website for them using Html ,Css and PHP.","Its an App where You will find the best Wallpapers for your screen from different categories and you cann also search for the wallpaper you want and develop using flutter and different API's.","App where you will get the all latest news from different newspapers and of different categories.","Its a app where you can find the different recipies from different categories and you can also filter the recipies according to your diet and preferances.","Its an App where you can shop for products and also add your products for sell its developed using flutter and Firebase."],t.i)
-$.ahI=H.b(["https://github.com/nikhil6134/shareout.git","https://github.com/nikhil6134/kikicall.git ","https://mozillaraj.github.io/","https://github.com/nikhil6134/KikiWallpapers.git","https://github.com/nikhil6134/kikinews.git","https://github.com/nikhil6134/myshop.git","https://github.com/nikhil6134/meals_app.git"],t.i)
+$.ahF=H.b(["assets/projects/share.gif","assets/projects/kikicall.gif","assets/projects/auro.gif","assets/projects/mozilla.gif","assets/projects/kikiwallpapers.gif","assets/projects/kikinews.gif","assets/projects/meals.gif","assets/projects/Myshop.gif"],t.i)
+$.ahH=H.b(["assets/projects/5.png","assets/projects/kikicall.png","assets/projects/auro1.png","assets/projects/mo.png","assets/projects/6.png","assets/projects/4.png","assets/projects/hereiam.png","assets/projects/earbender.png"],t.i)
+$.ahJ=H.b(["Shareout (Instagram Clone)","KiKiCall (Zoom Clone)","Auro AI (Personal Asset Manager)","Mozilla Rajasthan","KiKiWallpapers","KiKiNews","MyMeals","MyShop (Flipkart Clone)"],t.i)
+$.ahG=H.b(["A social media app developed using flutter powered with firebase as database. its lets you conect to your friends follow them, upload posts , like etc.","It's a Video Conferencing App developed using flutter and Its just like Zoom Call app.","Build a portfolio with Auro, and customize investment portfolio with your investment preference ranging from Country, Sector, ESG, Geography,Private Equity/ VC, Crypto and more and Build Using Flutter.","Its a Website of the the Mozilla Community in Rajasthan We developed this website for them using Html ,Css and PHP.","Its an App where You will find the best Wallpapers for your screen from different categories and you cann also search for the wallpaper you want and develop using flutter and different API's.","App where you will get the all latest news from different newspapers and of different categories.","Its a app where you can find the different recipies from different categories and you can also filter the recipies according to your diet and preferances.","Its an App where you can shop for products and also add your products for sell its developed using flutter and Firebase."],t.i)
+$.ahI=H.b(["https://github.com/nikhil6134/shareout.git","https://github.com/nikhil6134/kikicall.git ","https://play.google.com/store/apps/details?id=com.auro.investapp","https://mozillaraj.github.io/","https://github.com/nikhil6134/KikiWallpapers.git","https://github.com/nikhil6134/kikinews.git","https://github.com/nikhil6134/myshop.git","https://github.com/nikhil6134/meals_app.git"],t.i)
 $.a8_=H.b([C.il,C.im,C.nN],t.bY)
 $.a80=H.b(["Location","Phone","Email"],t.i)
 $.a7Z=H.b(["Jaipur, Rajasthan,India","(+91) 8303287465","ns.nikhilaks@gmail.com"],t.i)
